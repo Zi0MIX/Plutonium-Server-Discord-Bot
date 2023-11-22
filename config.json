@@ -1,0 +1,36 @@
+{
+    "token": null,
+    "pluto_api": "https://plutonium.pw/api/servers",
+    "servers": [
+        {
+            "finalized": true,
+            "ip": null,
+            "hostname": "[Reimagined] Grief",
+            "partial_hostname": false,
+            "constraints": {
+                "games": ["t6zm"],
+                "maps": [],
+                "gametype": "zgrief"
+            },
+            "message": "{hostname}\n{players}/{slots} players currently in the server!\nPlayers: {player_list}",
+            "msg_remove_if_empty_server": true,
+            "channel": "grief",
+            "partial_channel": true
+        },
+        {
+            "finalized": true,
+            "ip": null,
+            "hostname": "[Reimagined] Grief Pro",
+            "partial_hostname": false,
+            "constraints": {
+                "games": ["t6zm"],
+                "maps": [],
+                "gametype": "zgrief"
+            },
+            "message": "{hostname}\n{players}/{slots} players currently in the server!\nPlayers: {player_list}",
+            "msg_remove_if_empty_server": true,
+            "channel": "grief",
+            "partial_channel": true
+        }
+    ]
+}

@@ -1,4 +1,5 @@
 .vscode/
 __pycache__/
-.env
-credentials.json
+discord_tokens.py
+venv/
+*.log
